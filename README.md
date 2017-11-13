@@ -26,3 +26,9 @@ This is the customer page where the customer can check the customer details and 
 ![Alt text](https://github.com/nikhilvc1990/AgriChain/blob/master/screenshots/Micro-Finance.PNG?raw=true "Micro-Finance")
 
 The micro-finance form enables any user to fund a farmer. The funding is done by providing the farmers public id, the lot number of the product and the amount.
+
+System Architecture
+
+
+![Alt text](https://github.com/nikhilvc1990/AgriChain/blob/master/screenshots/AgriChain.jpg?raw=true "Flow Chart")
+
