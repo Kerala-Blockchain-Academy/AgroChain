@@ -16,6 +16,7 @@ This is the Quality Testing page.
 Here we can see the block details where the farmer’s details are stored onto blockchain. The ‘Approve Details’ will approve the details of the farmer.
 
 ![Alt text](https://github.com/nikhilvc1990/AgriChain/blob/master/screenshots/QualityTestingProduct.PNG?raw=true "Product Testing")
+
 Approve Details button click will redirect to this Product details page. This is also part of the quality testing where we enter the lot number, grade, price, test date and expiry date. These details are also stored in the blockchain as a structure.
 
 ![Alt text](https://github.com/nikhilvc1990/AgriChain/blob/master/screenshots/CustomerDetails.PNG?raw=true "Customer Details")
