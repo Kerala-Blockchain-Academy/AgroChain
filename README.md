@@ -1,6 +1,6 @@
 # AgriChain
 
-This repository contains the code for an Agricultural Supply Chain Dapp With Micro-Finance functionality, coded using Truffle and Solidity. The backend blockchain is a private ethereum network setup using Geth(go-ethereum).
+This repository contains the code for an Agricultural Supply Chain Dapp With Micro-Finance functionality, coded using **Truffle** and **Solidity**. The backend blockchain is a private ethereum network setup using **Geth(go-ethereum)**.
 
 ## What problem are we solving?
 
