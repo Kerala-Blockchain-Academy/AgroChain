@@ -76,3 +76,11 @@ The micro-finance form enables any user to fund a farmer. The funding is done by
 
 ![Alt text](https://github.com/nikhilvc1990/AgriChain/blob/master/screenshots/AgriChain.jpg?raw=true "Flow Chart")
 
+
+
+# About Us
+
+We are a group of researchers based at Indian Institute Of Information Technology and Management - Kerala
+
+Website/Contact : http://www.iiitmk.ac.in/blockchain/
+
