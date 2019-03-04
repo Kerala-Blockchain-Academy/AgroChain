@@ -1,0 +1,265 @@
+html {
+	width: 100%;
+	
+  background-image: url("Images/background.jpg");
+  font-family: 'HelveticaNeue-Light', Helvetica;
+  font-weight: 100;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+	width: 100%;
+	margin: 0;
+	
+}
+
+.wrapper {
+	text-align: center;
+}
+
+/*btn group*/
+.btn-group {
+	display: inline-block;
+	width: 100%;
+	height: 40px;
+	margin: 35px auto;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+  position: relative;
+}
+
+.btn {
+	display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 7px 15px;
+  font-size: 15px;
+  line-height: 1.428571429;
+  border-radius: 4px;
+  margin-left: -5px;
+}
+
+.btn1 {
+	display: inline-block;
+  margin-bottom: 0;
+  font-weight: normal;
+  text-align: center;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  white-space: nowrap;
+  padding: 7px 15px;
+  font-size: 26px;
+  line-height: 1.428571429;
+  border-radius: 4px;
+  margin-left: -5px;
+}
+
+.btn-selector {
+  color: #333333;
+  background-color: #ffffff;
+  border-color: #cccccc;
+}
+
+.btn-selector:hover,
+.btn-selector:focus,
+.btn-selector:active,
+.btn-selector.active {
+  color: #333333;
+  background-color: #CFCCCC;
+  border-color: #adadad;
+}
+
+.btn-group .btn:focus {
+  outline: none;
+}
+
+.btn-group .btn:not(:first-child):not(:last-child) {
+  border-radius: 0;
+}
+
+.btn-group .btn:first-child:not(:last-child) {
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.btn-group .btn:last-child:not(:first-child) {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+/*end of btn group*/
+
+/*form general*/
+.form {
+	margin: 40px auto;
+	padding: 10px 30px 35px;
+	display: block;
+	width: 375px;
+	background-color: #DEDCDC;
+	box-shadow: 0 0 25px 0 #000;
+}
+
+.form h3 {
+	color:	#FFFFFF;
+  font-size: 40px;
+	margin: 10px 0 20px 0;
+}
+
+.form h4 {
+	color:	#000000;
+  font-size: 30px;
+	margin: 10px 0 20px 0;
+	
+}
+
+.form h2 {
+	color:	#000000;
+  font-size: 40px;
+	margin: 10px 0 20px 0;
+}
+
+.form input, .form button, .form h2 {
+	font-family: 'HelveticaNeue-Light', Helvetica;
+  font-weight: 100;
+}
+
+input[type="text"],
+input[type="password"] {
+	display: block;
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	font-size: 15px;
+  height: 30px;
+  padding: 4px 6px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+input[type="checkbox"], label {
+	display: inline-block;
+	float: left;
+}
+
+input:focus {
+	outline: none;
+	border: 1px solid #44C7A9;
+}
+
+.input-std {
+	width: 95.5%;
+	font-size: 18px;
+	display: inline-block;
+}
+
+.input-half {
+	width: 45.9%;
+	float: left;
+}
+
+.input-quarter {
+	width: 21%;
+	float: left;
+}
+
+.btn-submit {
+	width: 100%;
+	font-size: 30px;
+	padding: 11px 19px;
+	border-radius: 6px;
+	border: 2px solid #cccccc;
+	cursor: pointer;
+	 background-color: #4CAF50;
+}
+
+.btn-submit1 {
+	width: 100%;
+	font-size: 30px;
+	padding: 11px 19px;
+	border-radius: 6px;
+	border: 2px solid #cccccc;
+	cursor: pointer;
+	 background-color: #4CAF50;
+}
+
+.btn-submit:focus {
+	outline: none;
+}
+
+#sign-up {
+	background-color: #5EB320;
+}
+
+#log-in {
+	background-color: #1893A3;
+}
+
+#remember-me-wrapper {
+	position: relative;
+	height: 30px;
+}
+
+#payments {
+	background-color: #B33030;
+}
+
+#cvc {
+	float: none;
+}
+
+#log-in-form, #payments-form {
+	display: none;
+}
+
+h1,h4{
+text-align: center;
+color:white;
+
+}
+
+.table{
+	text-align: center;
+}
+
+.white {
+  color: white;
+  
+ }
+ 
+ 
+ .black {
+	color : black; 
+	font-size : 18px;
+ }
+ 
+ .blockclass {
+	 color : black; 
+	font-size : 30px;
+ }
+
+.logs {
+  background-color: black;
+  font-size: 14px;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  margin: 0px;
+}
+
+.nav-tabs {
+  margin-bottom: 0;
+}
